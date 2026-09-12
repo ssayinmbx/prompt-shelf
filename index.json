@@ -1,0 +1,8 @@
+{
+  "prompts": [
+    {"file": "prompts/senior-reviewer.md", "tags": ["review", "code"]},
+    {"file": "prompts/sql-helper.md", "tags": ["sql", "data"]},
+    {"file": "prompts/eli-junior.md", "tags": ["explain", "teaching"]},
+    {"file": "prompts/rewrite-pass.md", "tags": ["writing", "editing"]}
+  ]
+}
